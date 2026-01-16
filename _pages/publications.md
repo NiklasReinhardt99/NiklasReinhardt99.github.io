@@ -5,7 +5,7 @@ permalink: /publications/
 
 ### Statistical Learning Theory for Neural Operators  
 **Niklas Reinhardt**, Sven Wang, Jakob Zech  
-*Preprint*, 2024.  
+*arxive preprint*, 2024.  
 [PDF](https://arxiv.org/pdf/2412.17582)
 
 ---
