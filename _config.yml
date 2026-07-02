@@ -77,6 +77,9 @@ author:
 
 footer:
   links:
+    - label: "niklas.reinhardt@iwr.uni-heidelberg.de"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:niklas.reinhardt@iwr.uni-heidelberg.de"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
