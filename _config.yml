@@ -62,9 +62,9 @@ author:
   avatar : "/assets/images/niklas2026.jpg"
   bio    : "PHD student at Heidelberg University. Working on Statistical Learning Theory in Infinite Dimensions."
   links:
-    - label: "niklas.reinhardt@iwr.uni-heidelberg.de"
+    - label: "niklas.reinhardt[at]iwr.uni-heidelberg.de"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:niklas.reinhardt[at]iwr.uni-heidelberg.de"
+      url: "mailto:niklas.reinhardt@iwr.uni-heidelberg.de"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/NiklasReinhardt99"
@@ -80,9 +80,9 @@ author:
 
 footer:
   links:
-    - label: "niklas.reinhardt@iwr.uni-heidelberg.de"
+    - label: "niklas.reinhardt[at]iwr.uni-heidelberg.de"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:niklas.reinhardt[at]iwr.uni-heidelberg.de"
+      url: "mailto:niklas.reinhardt@iwr.uni-heidelberg.de"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
