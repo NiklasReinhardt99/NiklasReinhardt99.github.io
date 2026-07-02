@@ -1,0 +1,9 @@
+---
+---
+
+$right-sidebar-width-narrow: 250px; // default 200px
+$right-sidebar-width: 350px;        // default 300px
+$right-sidebar-width-wide: 450px;   // default 400px
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
