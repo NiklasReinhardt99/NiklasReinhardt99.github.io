@@ -5,7 +5,7 @@ permalink: /publications/
 
 ### Bayesian Operator Learning: Posterior Existence and Convergence of Point Estimates for Gaussian Priors 
 **Niklas Reinhardt**, Jakob Zech  
-*Arxiv Preprint*, 2026.  
+*arXiv preprint*, 2026.  
 [PDF](https://arxiv.org/pdf/2610.03666)
 
 ### Statistical Learning Theory for Neural Operators  

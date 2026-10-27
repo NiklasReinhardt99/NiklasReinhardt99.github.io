@@ -1,9 +1,13 @@
 ---
 ---
 
-$right-sidebar-width-narrow: 250px; // default 200px
-$right-sidebar-width: 350px;        // default 300px
-$right-sidebar-width-wide: 450px;   // default 400px
-
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+$link-color: #235b78;
+$link-color-hover: #163d53;
 @import "minimal-mistakes";
+
+/* Small refinements; keep the theme's layout, navigation, and typography. */
+.page__meta { color: #59636b; }
+.archive__item-title { margin-top: 1.2em; }
+.author__urls a { overflow-wrap: anywhere; }
+a:focus-visible, button:focus-visible { outline: 3px solid #235b78; outline-offset: 3px; }
